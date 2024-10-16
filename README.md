@@ -2,10 +2,6 @@
 
 # ![Hi, I'm M. Hasan Mudzakir](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=330&height=40&lines=Hi%2C+I'm+M.%20Hasan%20Mudzakir!👋🏼;+;+)
 
-I'm M. Hasan Mudzakir, a Web Developer based. My passion is to craft high-quality applications and websites that provide exceptional user experiences. Recently, I've been immersed in technologies like JavaScript, Express and Figma design software.
-
-Want to know more about me? [View my Resume.](https://drive.google.com/file/d/1QemsB6k0gmjeqZmAkdTG8TuxWWUzbLJS/view?usp=sharing)📝 
-
 ### 👨‍💻 Here is what I'm working on!
 
 - 🔭 I'm currently in college
