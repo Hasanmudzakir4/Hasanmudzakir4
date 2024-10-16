@@ -6,14 +6,14 @@ I'm M. Hasan Mudzakir, a Web Developer based. My passion is to craft high-qualit
 
 Want to know more about me? [View my Resume.]📝(https://drive.google.com/file/d/1QemsB6k0gmjeqZmAkdTG8TuxWWUzbLJS/view?usp=sharing) 
 
-### 🧰 Here is what I'm working on!
+### 👨‍💻 Here is what I'm working on!
 
 - 🔭 I'm currently in college
 - 🌱 I’m currently acquiring skills in Javascript and Express.
-- 🏕️ In my free time I love the [outdoors], being active, as well as connecting with friends and family.
-- ☕️ Always up for coffee if you're around!
+- 🏕️ In my free time I love the outdoors, being active, as well as connecting with friends and family.
 - 📫 How to reach me: [hasanmudzakir0204@gmail.com](mailto:hasanmudzakir0204@gmail.com)
 - ⚡ Fun fact: I love watching movies.
+- ☕️ Always up for coffee if you're around!
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -37,11 +37,14 @@ Want to know more about me? [View my Resume.]📝(https://drive.google.com/file/
   href="https://www.linkedin.com/in/www.linkedin.com/in/muhammad-hasan-mudzakir-362971240">
 <img width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>&ensp;
-<a href="mailto:hasanmudzakir0204@gmail.com">
-<img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>&ensp;
 <a href="https://t.me/hasanmudzakir">
 <img width="25px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
+</a>&ensp;
+<a href="https://wa.me/6285691775503">
+<img width="25px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
+</a>&ensp;
+<a href="mailto:hasanmudzakir0204@gmail.com">
+<img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>&ensp;
 <a href="https://discord.com/users/1140869702256689273">
 <img width="25px" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" />
