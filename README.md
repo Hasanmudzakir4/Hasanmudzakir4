@@ -1,6 +1,10 @@
+![GitHub Banner Image](https://github.com/Hasanmudzakir4/Hasanmudzakir4/blob/ca5f7dcfa93136b024f3b54a58b8b8ed707c2045/assets/banner-github.png)
+
 # ![Hi, I'm M. Hasan Mudzakir](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=330&height=40&lines=Hi%2C+I'm+M.%20Hasan%20Mudzakir!👋🏼;+;+)
 
-[View my Resume](https://drive.google.com/file/d/1QemsB6k0gmjeqZmAkdTG8TuxWWUzbLJS/view?usp=sharing) 📝
+I'm M. Hasan Mudzakir, a Web Developer based. My passion is to craft high-quality applications and websites that provide exceptional user experiences. Recently, I've been immersed in technologies like JavaScript, Express and Figma design software.
+
+Want to know more about me? [View my Resume.]📝(https://drive.google.com/file/d/1QemsB6k0gmjeqZmAkdTG8TuxWWUzbLJS/view?usp=sharing) 
 
 ### 🧰 Here is what I'm working on!
 
