@@ -4,8 +4,8 @@
 
 ### 👨‍💻 Here is what I'm working on!
 
-- 🔭 I'm currently in college
-- 🌱 I’m currently acquiring skills in Javascript and Express.
+- 🔭 I'm currently acquiring skills in Javascript and Express.
+- 👀 I’m interested in Backend Developer.
 - 🏕️ In my free time I love the outdoors, being active, as well as connecting with friends and family.
 - 📫 How to reach me: [hasanmudzakir0204@gmail.com](mailto:hasanmudzakir0204@gmail.com)
 - ⚡ Fun fact: I love watching movies.
