@@ -5,7 +5,7 @@
 ### 🧰 Here is what I'm working on!
 
 - 🔭 I'm currently in college
-- 🌱 I’m currently acquiring skills in Javascript.
+- 🌱 I’m currently acquiring skills in Javascript and Express.
 - 🏕️ In my free time I love the [outdoors], being active, as well as connecting with friends and family.
 - ☕️ Always up for coffee if you're around!
 - 📫 How to reach me: [hasanmudzakir0204@gmail.com](mailto:hasanmudzakir0204@gmail.com)
