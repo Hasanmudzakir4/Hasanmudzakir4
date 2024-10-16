@@ -4,7 +4,7 @@
 
 I'm M. Hasan Mudzakir, a Web Developer based. My passion is to craft high-quality applications and websites that provide exceptional user experiences. Recently, I've been immersed in technologies like JavaScript, Express and Figma design software.
 
-Want to know more about me? [View my Resume.]📝(https://drive.google.com/file/d/1QemsB6k0gmjeqZmAkdTG8TuxWWUzbLJS/view?usp=sharing) 
+Want to know more about me? [View my Resume.](https://drive.google.com/file/d/1QemsB6k0gmjeqZmAkdTG8TuxWWUzbLJS/view?usp=sharing)📝 
 
 ### 👨‍💻 Here is what I'm working on!
 
