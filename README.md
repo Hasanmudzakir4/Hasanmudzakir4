@@ -1,7 +1,7 @@
 ![GitHub Banner Image](https://github.com/Hasanmudzakir4/Hasanmudzakir4/blob/ca5f7dcfa93136b024f3b54a58b8b8ed707c2045/assets/banner-github.png)
 
 # ![Hi, I'm M. Hasan Mudzakir](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=330&height=40&lines=Hi%2C+I'm+M.%20Hasan%20Mudzakir!👋🏼;+;+)
-<img align="right" alt="Coding" width="400" src="https://github.com/Hasanmudzakir4/Hasanmudzakir4/blob/0d29ecfe39ea46c19d04c067ed68f3128b28e491/assets/coding.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/Hasanmudzakir4/Hasanmudzakir4/blob/0d29ecfe39ea46c19d04c067ed68f3128b28e491/assets/coding.gif">
 ### 👨‍💻 Here is what I'm working on!
 
 - 🔭 I'm currently acquiring skills in Javascript and Express.
