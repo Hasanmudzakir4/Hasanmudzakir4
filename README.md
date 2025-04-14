@@ -29,7 +29,7 @@
 ### 📺 Contact Me
 
 <a 
-  href="https://www.linkedin.com/in/www.linkedin.com/in/muhammad-hasan-mudzakir-362971240">
+  href="https://www.linkedin.com/in/www.linkedin.com/in/muhammad-hasan-mudzakir">
 <img width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>&ensp;
 <a href="https://t.me/hasanmudzakir">
