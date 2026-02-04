@@ -20,6 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&style=plastic&logo=bootstrap&logoColor=23563D7C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=plastic&logo=JavaScript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/php-05122A?&style=plastic&logo=php&logoColor=787CB5)
+![Flutter](https://img.shields.io/badge/Flutter-05122A?style=plastic&logo=Flutter&logoColor=02569B)
 ![Git](https://img.shields.io/badge/Git-05122A?style=plastic&logo=Git&logoColor=F05032)
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?&style=plastic&logo=mongodb&logoColor=13aa52)
 ![Mysql](https://img.shields.io/badge/mysql-05122A?&style=plastic&logo=mysql&logoColor=00758f)
