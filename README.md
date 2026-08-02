@@ -1,8 +1,8 @@
-<h1 data-importer="text" align="left">Heyy 👋 What's up!?</h1>
+<h1 data-importer="text" align="left">👋 Hi, I'm Muhammad Hasan Mudzakir</h1>
 
 ###
 
-<p data-importer="text" align="left">I'm Muhammad Hasan Mudzakir, a Software Engineer passionate about creating clean, scalable, and efficient software.</p>
+<p data-importer="text" align="left">I'm a Software Engineer passionate about creating clean, scalable, and efficient software.</p>
 
 ###
 
