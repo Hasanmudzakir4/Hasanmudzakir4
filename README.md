@@ -44,8 +44,6 @@
 
 ###
 
-<br clear="both">
-
 <div data-importer="socials" align="left">
   <a href="https://wa.me/6285691775503" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
