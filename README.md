@@ -1,49 +1,71 @@
-![GitHub Banner Image](https://github.com/Hasanmudzakir4/Hasanmudzakir4/blob/ca5f7dcfa93136b024f3b54a58b8b8ed707c2045/assets/banner-github.png)
+<h1 data-importer="text" align="left">Heyy 👋 What's up!?</h1>
 
-# ![Hi, I'm M. Hasan Mudzakir](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=330&height=40&lines=Hi%2C+I'm+M.%20Hasan%20Mudzakir!👋🏼;+;+)
-<img align="right" alt="Coding" width="350" src="https://github.com/Hasanmudzakir4/Hasanmudzakir4/blob/0d29ecfe39ea46c19d04c067ed68f3128b28e491/assets/coding.gif">
+###
 
-### 👨‍💻 Here is what I'm working on!
+<p data-importer="text" align="left">I'm Muhammad Hasan Mudzakir, a Software Engineer passionate about creating clean, scalable, and efficient software.</p>
 
-- 🔭 I'm currently acquiring skills in Javascript and Express.
-- 👀 I’m interested in Backend Developer.
-- 🏕️ In my free time I love the outdoors, being active, as well as connecting with friends and family.
-- 📫 How to reach me: [hasanmudzakir0204@gmail.com](mailto:hasanmudzakir0204@gmail.com)
-- ⚡ Fun fact: I love watching movies.
+###
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h2 data-importer="text" align="left">👨‍💻 About Me</h2>
 
-### 💻 Languages and Tools I Use
+###
 
-![HTML5](https://img.shields.io/badge/HTML5-05122A?&style=plastic&logo=HTML5&logoColor=F05032)
-![CSS3](https://img.shields.io/badge/CSS3-05122A?&style=plastic&logo=CSS3&logoColor=3776AB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&style=plastic&logo=bootstrap&logoColor=23563D7C)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=plastic&logo=JavaScript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/php-05122A?&style=plastic&logo=php&logoColor=787CB5)
-![Flutter](https://img.shields.io/badge/Flutter-05122A?style=plastic&logo=Flutter&logoColor=02569B)
-![Git](https://img.shields.io/badge/Git-05122A?style=plastic&logo=Git&logoColor=F05032)
-![MongoDB](https://img.shields.io/badge/MongoDB-05122A?&style=plastic&logo=mongodb&logoColor=13aa52)
-![Mysql](https://img.shields.io/badge/mysql-05122A?&style=plastic&logo=mysql&logoColor=00758f)
+<img data-importer="image" align="right" height="150" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
----
+###
 
-### 📺 Contact Me
+<p data-importer="text" align="left">💻 Software Engineer from Indonesia<br>🚀 Passionate about Web Development and Backend Engineering<br>⚙️ Interested in Backend Development, DevOps, and System Design<br>⚡ Always building projects and improving my skills</p>
 
-<a 
-  href="https://www.linkedin.com/in/muhammad-hasan-mudzakir">
-<img width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>&ensp;
-<a href="https://t.me/hasanmudzakir">
-<img width="25px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
-</a>&ensp;
-<a href="https://wa.me/6285691775503">
-<img width="25px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
-</a>&ensp;
-<a href="mailto:hasanmudzakir0204@gmail.com">
-<img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>&ensp;
-<a href="https://discord.com/users/1140869702256689273">
-<img width="25px" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" />
-</a>&ensp;
+###
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h2 data-importer="text" align="left">🛠️ Tech Stack</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="left">🌐 Connect with Me</h2>
+
+###
+
+<br clear="both">
+
+<div data-importer="socials" align="left">
+  <a href="https://wa.me/6285691775503" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://t.me/hasanmudzakir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-hasan-mudzakir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/1140869702256689273" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
+  </a>
+  <a href="mailto:hasanmudzakir0204@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Hasanmudzakir4/Hasanmudzakir4/snake-output/snake.svg" alt="Snake animation" />
+
+###
