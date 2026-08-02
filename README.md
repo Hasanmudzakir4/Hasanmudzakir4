@@ -66,6 +66,12 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Hasanmudzakir4/Hasanmudzakir4/snake-output/snake.svg" alt="Snake animation" />
+<!-- <img data-importer="snake" src="https://raw.githubusercontent.com/Hasanmudzakir4/Hasanmudzakir4/snake-output/snake.svg" alt="Snake animation" /> -->
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasanmudzakir4/Hasanmudzakir4/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hasanmudzakir4/Hasanmudzakir4/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hasanmudzakir4/Hasanmudzakir4/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
