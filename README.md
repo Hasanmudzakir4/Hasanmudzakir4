@@ -14,7 +14,9 @@
 
 ###
 
-<p data-importer="text" align="left">💻 Software Engineer from Indonesia<br>🚀 Passionate about Web Development and Backend Engineering<br>⚙️ Interested in Backend Development, DevOps, and System Design<br>⚡ Always building projects and improving my skills</p>
+<p data-importer="text" align="left">💻 Software Engineer from Indonesia<br>🚀 Passionate about Web Development and Backend Engineering<br>🌱 Currently learning DevOps, Cloud Computing, and Kubernetes<br>⚙️ Interested in Backend Development, DevOps, and System Design<br>⚡ Always building projects and improving my skills</p>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ###
 
